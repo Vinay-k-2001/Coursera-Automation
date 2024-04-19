@@ -1,0 +1,34 @@
+09:55:06.154 [main] INFO  testCases.TestCase_002_LanguageLearningValidation - ------Levels list fetched successfully------
+09:55:58.551 [main] INFO  testCases.TestCase_003_EnterpriseValidation - ------Coursera home page validated successfully------
+09:56:11.765 [main] INFO  testCases.TestCase_003_EnterpriseValidation - ------Enterprise page is opened successfully------
+09:56:14.475 [main] INFO  testCases.TestCase_003_EnterpriseValidation - ------Courses for Campus form with invalid details (email) are filled successfully------
+09:56:19.430 [main] INFO  testCases.TestCase_003_EnterpriseValidation - ------Verify message for invalid details thrown successfully------
+09:56:21.079 [main] INFO  testCases.TestCase_003_EnterpriseValidation - ------Courses for Campus form with invalid details(phone) are filled successfully------
+09:56:31.921 [main] INFO  testCases.TestCase_003_EnterpriseValidation - ------Verify message for invalid details thrown successfully------
+09:56:33.612 [main] INFO  testCases.TestCase_003_EnterpriseValidation - ------Courses for Campus form with valid details are filled successfully------
+09:56:58.106 [main] INFO  testCases.TestCase_003_EnterpriseValidation - ------Verify message for valid details are captured successfully------
+10:05:46.574 [main] INFO  testCases.TestCase_001_WebDevelopmentValidation - ------Coursera home page successfully------
+10:05:59.032 [main] INFO  testCases.TestCase_001_WebDevelopmentValidation - ------Entered value WebDevelopment successfully------
+10:06:03.593 [main] INFO  testCases.TestCase_001_WebDevelopmentValidation - ------Successfully clicked Language------
+10:06:07.947 [main] INFO  testCases.TestCase_001_WebDevelopmentValidation - ------Successfully clicked Level------
+10:06:20.234 [main] INFO  testCases.TestCase_001_WebDevelopmentValidation - ------Driver switched from Main page to First Course Page successfully------
+10:06:24.345 [main] INFO  testCases.TestCase_001_WebDevelopmentValidation - ------First course name fetched successfully------
+10:06:25.612 [main] INFO  testCases.TestCase_001_WebDevelopmentValidation - ------First Course Rating fetched successfully------
+10:06:26.712 [main] INFO  testCases.TestCase_001_WebDevelopmentValidation - ------First Course Duration fetched successfully------
+10:06:27.796 [main] INFO  testCases.TestCase_001_WebDevelopmentValidation - ------Driver switched from First Course page to Main Page and closed First course page closed successfully------
+10:06:39.892 [main] INFO  testCases.TestCase_001_WebDevelopmentValidation - ------Driver switched from Main page to Second Course Page successfully------
+10:06:43.953 [main] INFO  testCases.TestCase_001_WebDevelopmentValidation - ------Second course name fetched successfully------
+10:06:45.212 [main] INFO  testCases.TestCase_001_WebDevelopmentValidation - ------Second course rating fetched successfully------
+10:06:46.297 [main] INFO  testCases.TestCase_001_WebDevelopmentValidation - ------Second course duration fetched successfully------
+10:06:47.369 [main] INFO  testCases.TestCase_001_WebDevelopmentValidation - ------Driver switched from Second Course page to Main Page and closed First course page closed successfully------
+10:07:08.752 [main] INFO  testCases.TestCase_002_LanguageLearningValidation - ------Coursera home page validated successfully------
+10:07:17.553 [main] INFO  testCases.TestCase_002_LanguageLearningValidation - ------Entered value WebDevelopment successfully------
+10:07:22.728 [main] INFO  testCases.TestCase_002_LanguageLearningValidation - ------Languages list fetched successfully------
+10:07:27.058 [main] INFO  testCases.TestCase_002_LanguageLearningValidation - ------Levels list fetched successfully------
+10:07:43.578 [main] INFO  testCases.TestCase_003_EnterpriseValidation - ------Enterprise page is opened successfully------
+10:07:45.065 [main] INFO  testCases.TestCase_003_EnterpriseValidation - ------Courses for Campus form with invalid details (email) are filled successfully------
+10:07:49.655 [main] INFO  testCases.TestCase_003_EnterpriseValidation - ------Verify message for invalid details thrown successfully------
+10:07:50.525 [main] INFO  testCases.TestCase_003_EnterpriseValidation - ------Courses for Campus form with invalid details(phone) are filled successfully------
+10:08:01.555 [main] INFO  testCases.TestCase_003_EnterpriseValidation - ------Verify message for invalid details thrown successfully------
+10:08:02.820 [main] INFO  testCases.TestCase_003_EnterpriseValidation - ------Courses for Campus form with valid details are filled successfully------
+10:08:27.116 [main] INFO  testCases.TestCase_003_EnterpriseValidation - ------Verify message for valid details are captured successfully------
